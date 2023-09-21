@@ -1,5 +1,4 @@
-﻿
-## Overview
+﻿## Overview
 In this project, I’m exploring data related to bike share systems for three major cities in the United States: Chicago, New York City, and Washington, all using Python to display analytics.
 
 ### Datasets
