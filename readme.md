@@ -1,4 +1,5 @@
-﻿## Overview
+
+# Overview
 In this project, I’m exploring data related to bike share systems for three major cities in the United States: Chicago, New York City, and Washington, all using Python to display analytics.
 
 ### Datasets
@@ -11,7 +12,7 @@ The datasets provided by Motivate, a bike share system provider in the US, who c
 * End Station
 * User Type
 
-Chicago and New York City files also have the following two columns:
+**Chicago and New York City files also have the following two columns:**
 * Gender
 * Birth Year
 
